@@ -15,7 +15,7 @@ const app = express();
 
 // 1. CORS Configuration
 app.use(cors({
-    origin: "https://cloud-studio-psi.vercel.app/",
+    origin: "https://cloud-studio-psi.vercel.app",
     credentials: true
 }));
 
