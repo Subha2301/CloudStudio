@@ -1,65 +1,46 @@
-CloudStudio
+# CloudStudio
 
 A full-stack cloud-based media management platform built using React, Node.js, Express.js, MongoDB, and Cloudinary. It allows users to upload, store, and manage images and videos through a centralized media management interface with secure authentication and cloud storage integration.
 
-Features
+## Features
 
-User Authentication (Signup & Login)
+- User Authentication (Signup & Login)
+- JWT Authentication
+- Secure User Sessions
+- Image Upload & Storage
+- Video Upload & Storage
+- Cloudinary Cloud Storage Integration
+- Media Management
+- User-specific Media Access
+- Protected Routes
+- REST API Integration
+- Webhook Integration
+- Full-Stack Deployment
 
-JWT Authentication
+## 🛠️ Tech Stack
 
-Secure User Sessions
+**Frontend**
 
-Image Upload & Storage
+- React
+- JavaScript
+- Axios
+- Tailwind CSS
 
-Video Upload & Storage
+**Backend**
 
-Cloudinary Cloud Storage Integration
+- Node.js
+- Express.js
+- REST APIs
+- JWT Authentication
+- Cookie Parser
+- Webhook Handling
 
-Media Management
+**Database**
 
-User-specific Media Access
+- MongoDB
+- Mongoose
 
-Protected Routes
+**Cloud Storage & Media Processing**
 
-REST API Integration
+- Cloudinary
 
-Webhook Integration
-
-Full-Stack Deployment
-
-🛠️ Tech Stack
-
-Frontend
-
-React
-
-JavaScript
-
-Axios
-
-Tailwind CSS
-
-Backend
-
-Node.js
-
-Express.js
-
-REST APIs
-
-JWT Authentication
-
-Cookie Parser
-
-Webhook Handling
-
-Database
-
-MongoDB
-
-Mongoose
-
-Cloud Storage & Media Processing
-
-Cloudinary
